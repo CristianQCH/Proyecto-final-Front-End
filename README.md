@@ -1,6 +1,6 @@
 # Proyecto-final-Front-End
 
----Realizar comando "npm i" para descargar todas las dependencias---
+---Realizar comando "npm i" para descargar todas las dependencias estando ubicado en "Proyecto-final Front-End/ecommerce"---
 
 ---CRUD finalizado con posibles mejoras en el apartado productos (lista, crea, actualiza y elimina)---
 
